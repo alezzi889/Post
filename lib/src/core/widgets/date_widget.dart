@@ -27,7 +27,7 @@ class _DateState extends State<Date> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 140,
+      height: 130,
       padding: const EdgeInsets.all(16),
       color: Colors.deepPurple,
       child: GestureDetector(
